@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coiny.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coiny0000" x="0" y="0" width="601" height="331" frameX="0" frameY="-122" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0001" x="0" y="0" width="601" height="331" frameX="0" frameY="-122" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0002" x="699" y="0" width="527" height="404" frameX="-41" frameY="-49" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0003" x="699" y="0" width="527" height="404" frameX="-41" frameY="-49" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0004" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0005" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0006" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0007" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0008" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0009" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0010" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0011" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0012" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="coiny0013" x="1324" y="0" width="495" height="452" frameX="-58" frameY="0" frameWidth="601" frameHeight="453"/>
+	<SubTexture name="down coiny0000" x="1917" y="0" width="534" height="405" frameX="0" frameY="-36" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0001" x="1917" y="0" width="534" height="405" frameX="0" frameY="-36" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0002" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0003" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0004" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0005" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0006" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0007" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0008" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0009" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0010" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0011" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0012" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="down coiny0013" x="2549" y="0" width="506" height="440" frameX="-15" frameY="0" frameWidth="534" frameHeight="441"/>
+	<SubTexture name="left coiny0000" x="3153" y="0" width="574" height="452"/>
+	<SubTexture name="left coiny0001" x="3153" y="0" width="574" height="452"/>
+	<SubTexture name="left coiny0002" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0003" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0004" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0005" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0006" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0007" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0008" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0009" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0010" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0011" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0012" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="left coiny0013" x="0" y="550" width="535" height="452" frameX="-39" frameY="0" frameWidth="574" frameHeight="452"/>
+	<SubTexture name="right coiny0000" x="633" y="550" width="581" height="452"/>
+	<SubTexture name="right coiny0001" x="633" y="550" width="581" height="452"/>
+	<SubTexture name="right coiny0002" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0003" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0004" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0005" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0006" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0007" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0008" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0009" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0010" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0011" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0012" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="right coiny0013" x="1312" y="550" width="545" height="452" frameX="0" frameY="0" frameWidth="581" frameHeight="452"/>
+	<SubTexture name="up coiny0000" x="1955" y="550" width="429" height="537" frameX="-28" frameY="0" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0001" x="1955" y="550" width="429" height="537" frameX="-28" frameY="0" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0002" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0003" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0004" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0005" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0006" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0007" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0008" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0009" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0010" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0011" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0012" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+	<SubTexture name="up coiny0013" x="2482" y="550" width="480" height="511" frameX="0" frameY="-26" frameWidth="480" frameHeight="537"/>
+</TextureAtlas>
