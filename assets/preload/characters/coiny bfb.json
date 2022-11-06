@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "coiny"
+		},
+		{
+			"offsets": [
+				-34,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right coiny"
+		},
+		{
+			"offsets": [
+				13,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left coiny"
+		},
+		{
+			"offsets": [
+				-23,
+				-197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down coiny"
+		},
+		{
+			"offsets": [
+				-42,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up coiny"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/coiny",
+	"position": [
+		-120,
+		-100
+	],
+	"healthicon": "sonic icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		155,
+		95,
+		0
+	],
+	"camera_position": [
+		-230,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

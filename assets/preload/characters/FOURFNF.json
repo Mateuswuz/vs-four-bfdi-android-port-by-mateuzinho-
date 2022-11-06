@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FourIdleDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FourRightDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FourDownDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FourLeftDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FourUpDance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Four_FNF",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-230,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

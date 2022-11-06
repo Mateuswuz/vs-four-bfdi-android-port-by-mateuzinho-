@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				-13,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				9,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-14,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				6,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				27
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				14
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				3
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS D",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY!!!"
+		},
+		{
+			"offsets": [
+				-44,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Death start",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				11
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Death end",
+			"indices": []
+		},
+		{
+			"offsets": [
+				77,
+				11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Death loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFB BF",
+	"position": [
+		270,
+		470
+	],
+	"healthicon": "bfb-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-170,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

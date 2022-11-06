@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "coiner",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-64
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "righ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				394,
+				-64
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lefttttt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				245,
+				-132
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "donw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				411
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "uep",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/honey",
+	"position": [
+		-70,
+		30
+	],
+	"healthicon": "fleetway icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		181,
+		1
+	],
+	"camera_position": [
+		68,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
